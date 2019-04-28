@@ -1,1 +1,6 @@
 git:https://study.163.com/course/courseMain.htm?courseId=1003268008
+
+数学基础：
+  高等数学：https://zhuanlan.zhihu.com/p/36311622
+  线性代数：https://zhuanlan.zhihu.com/p/36584206
+  概率论：https://zhuanlan.zhihu.com/p/36584335
